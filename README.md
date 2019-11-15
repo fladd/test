@@ -1,6 +1,6 @@
 # test
 
-```
+```python
 #!/usr/bin/env python
 
 """Summary of module.
